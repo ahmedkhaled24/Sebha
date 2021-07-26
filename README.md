@@ -11,6 +11,4 @@ Using: TextView, Button and Numerical equations
 
 ![reset](https://user-images.githubusercontent.com/70321297/126921560-0c6d6507-dcf1-4a6f-b535-c34bc55be7ff.jpeg)
 
-![count](https://user-images.githubusercontent.com/70321297/126921761-2f21b708-b5b5-4fa3-8be3-740487f466b9.jpeg)
-
-![app](https://user-images.githubusercontent.com/70321297/126921840-37ec8c8a-6733-4771-9246-c6200e353272.jpeg)
+![reset](https://user-images.githubusercontent.com/70321297/126921879-dee1acc4-db22-425b-aafd-b0dae8038a22.jpeg)
